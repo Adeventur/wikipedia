@@ -30,7 +30,6 @@ nav{
 .card{
           margin-top: 15px;
 }
-/* 
-.col-md-16 .card-title{
-          margin: 50px;
-} */
+h2{
+   color: black;
+}
