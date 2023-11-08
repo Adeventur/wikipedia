@@ -14,9 +14,9 @@
 }
 
 img{
-          width: 180px;
-          height: 120px;
-          /* float: left; */
+          width: 230px;
+          height: 170px;
+       margin: 20px;
           padding: 5px;
 }
 
@@ -30,3 +30,7 @@ nav{
 .card{
           margin-top: 15px;
 }
+/* 
+.col-md-16 .card-title{
+          margin: 50px;
+} */
