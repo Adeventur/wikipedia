@@ -3,10 +3,10 @@
           margin: 5px;
           border: 0;
 }
-.logo img{
+/* .logo img{
           size: 20px;
           margin-left: 8px;
-}
+} */
 
 .log h1{
           height: 10px;
@@ -16,8 +16,7 @@
 img{
           width: 230px;
           height: 170px;
-       margin: 8px;
-          padding: 3px;
+      
 }
 
 nav{
